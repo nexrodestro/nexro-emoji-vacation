@@ -8,7 +8,7 @@ A make.fun entry for **One Emoji, One Dream Vacation**: a single emoji,
 nothing else, standing in for the trip of dreams — the one that most
 makes a stranger want to book the flight.
 
-> 🗻
+> 🗿
 
 ## Run it
 
